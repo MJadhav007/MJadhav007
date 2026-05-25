@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Manas
+Currently in the building phase - learning before shipping.
 
-<!--
-**MJadhav007/MJadhav007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm Working on
+- Learning Python + AI APIs
+- Building **RXNKR** - an intelligent study planning system for serious Indian exam aspirants
+- Side gigs hustle via Internshala(Digital Marketing, Market Research)
 
-Here are some ideas to get you started:
+##Whats's coming to this profile
+- Python practice projects
+- AI API experiments
+- Side projects builds
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*No fluff. Just work.*
